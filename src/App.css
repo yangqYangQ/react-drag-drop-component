@@ -1,0 +1,48 @@
+:root {
+    --blue: #07F;
+    --white: white;
+    --grey: #c0c0c0;
+}
+
+* {
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+.App {
+    margin: 32px;
+    text-align: center;
+    color: var(--blue);
+}
+
+.App > h1 {
+    padding: 10px;
+}
+
+.App > .drag-drop-zone {
+    background-color: var(--blue);
+    color: var(--white);
+    padding: 32px 0;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px var(--grey);
+}
+
+.App > .drag-drop-zone.inside-drag-area {
+    opacity: 0.8;
+}
+
+.App > .drag-drop-zone > p {
+    margin: 16px 0;
+}
+
+.App > ol.dropedFiles {
+    text-align: left;
+    margin: 10px 0;
+    font-weight: bold;
+}
+
+.App > ol.dropedFiles > li {
+    padding: 3px;
+}
