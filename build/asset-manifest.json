@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-drag-drop-component/build/static/css/main.5048ef53.chunk.css",
+    "main.js": "/react-drag-drop-component/build/static/js/main.9b283eec.chunk.js",
+    "main.js.map": "/react-drag-drop-component/build/static/js/main.9b283eec.chunk.js.map",
+    "runtime-main.js": "/react-drag-drop-component/build/static/js/runtime-main.46d29228.js",
+    "runtime-main.js.map": "/react-drag-drop-component/build/static/js/runtime-main.46d29228.js.map",
+    "static/js/2.ba9d4dcd.chunk.js": "/react-drag-drop-component/build/static/js/2.ba9d4dcd.chunk.js",
+    "static/js/2.ba9d4dcd.chunk.js.map": "/react-drag-drop-component/build/static/js/2.ba9d4dcd.chunk.js.map",
+    "index.html": "/react-drag-drop-component/build/index.html",
+    "precache-manifest.b4fe75f6f42bcbf5d35af954dcf2aae9.js": "/react-drag-drop-component/build/precache-manifest.b4fe75f6f42bcbf5d35af954dcf2aae9.js",
+    "service-worker.js": "/react-drag-drop-component/build/service-worker.js",
+    "static/css/main.5048ef53.chunk.css.map": "/react-drag-drop-component/build/static/css/main.5048ef53.chunk.css.map",
+    "static/js/2.ba9d4dcd.chunk.js.LICENSE.txt": "/react-drag-drop-component/build/static/js/2.ba9d4dcd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46d29228.js",
+    "static/js/2.ba9d4dcd.chunk.js",
+    "static/css/main.5048ef53.chunk.css",
+    "static/js/main.9b283eec.chunk.js"
+  ]
+}
